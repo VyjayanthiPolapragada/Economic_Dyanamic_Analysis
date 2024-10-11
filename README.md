@@ -20,3 +20,10 @@ Key Steps in this Analysis:
    3. Johansen test
 5. Granger Casuality test
 
+Conclusion from the Analysis:
+
+Short Run: A positive shock to government debt (i.e., an increase in government debt) has a negative effect on FDI. This means that if government debt suddenly increases, it will likely lead to a decrease in foreign investment in the short term.
+
+Long Run: The negative effect of government debt on FDI fades away over time. This means that as time passes, the initial negative impact of government debt on FDI will decrease and eventually disappear.
+
+In conclusion, an increase in government debt initially discourages foreign investment, but this negative impact diminishes over time, eventually stabilizing and allowing foreign investment to recover.
