@@ -1,4 +1,4 @@
-# Economic_Dyanamic_Analysis
+# Economic_Dynamic_Analysis
 This project aims to delve into the intricate relationships between Foreign Direct Investment (FDI), government debt, and Gross Domestic Product (GDP) using a detailed empirical analysis.
 
 By employing sophisticated statistical techniques such as stationarity testing, cointegration analysis, and time series modeling, the study will uncover the underlying dynamics and long-term trends among these key economic indicators. 
